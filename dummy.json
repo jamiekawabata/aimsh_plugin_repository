@@ -2,11 +2,11 @@
     "plugins": [
         {
             "name": "aimsh_sample_plugin",
-            "url": "https://github.com/jamiekawabata/sample_plugin"
+            "url": "https://github.com/jamiekawabata/sample_plugin/archive/refs/heads/main.zip"
         },
         {
             "name": "aimsh_fabric_example",
-            "url": "https://github.com/jamiekawabata/fabric_example"
+            "url": "https://github.com/jamiekawabata/fabric_example/archive/refs/heads/main.zip"
         }
     ]
 }
