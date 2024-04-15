@@ -1,0 +1,12 @@
+{
+    "plugins": [
+        {
+            "name": "aimsh_sample_plugin",
+            "url": "https://github.com/jamiekawabata/sample_plugin"
+        },
+        {
+            "name": "aimsh_fabric_example",
+            "url": "https://github.com/jamiekawabata/fabric_example"
+        }
+    ]
+}
